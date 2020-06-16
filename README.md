@@ -1,1 +1,1 @@
-# ff_perf_platform_exp
+Initial efforts at rapid experiment analysis for performance and plaform related experiments. 
